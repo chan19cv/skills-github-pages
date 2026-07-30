@@ -1,0 +1,6 @@
+---
+title: "CV BLOG"
+date: 2026-07-30
+
+THIS IS A TEST HAHAHAHAHHA
+---
